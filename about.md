@@ -4,26 +4,11 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Let there be light!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hello, my name is Datu Adiatma. I am a PhD student in geology at OSU's [School of Earth Sciences ](https://earthsciences.osu.edu). My research focuses on the Taconic orogeny, a mountain building event along the eastern part of the North America Continent that took place ~ 470 million years ago, and its impact in global climate and basin subsidence.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+My main 'tools' in answering my research questions is chemostratigraphy. It's a branch of stratigraphy that uses changes in chemical composition of the rock record through time to decode various changes in the earth system,
 
 Thanks for reading!
