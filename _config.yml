@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://lanyon.getpoole.com
+title:               Datu Adiatma
+tagline:             'Geologist'
+description:         'I am a geologist, who is losing sleeps over things that happened in the past 4.5 billion years'
+url:                 https://www.adtma.pw
 baseurl:             ''
-paginate:            5
+paginate:            1
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Datu Adiatma
+  url:               https://twitter.com/mas_datu
+  email:             me@adtma.pw
 
 # Gems
 plugins:
@@ -19,4 +19,4 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: UA-146052-15
+#google_analytics_id: UA-146052-15
