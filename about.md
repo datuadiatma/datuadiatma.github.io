@@ -8,7 +8,8 @@ my name is Datu Adiatma. I am a PhD student in geology at OSU's [School of Earth
 My main 'tools' in answering my research questions is chemostratigraphy. It's a branch of stratigraphy that uses changes in chemical composition of the rock record through time to decode various changes in the earth system.
 
 You can reach me on:
-* [twitter](https://twitter.com/mas_datu)
-* [github](https://github.com/datuadiatma)
+* [Twitter](https://twitter.com/mas_datu)
+* [GitHub](https://github.com/datuadiatma)
+* [Instagram](https://www.instagram.com/datuadiatma/)
 
 Thanks for reading!
