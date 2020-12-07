@@ -7,7 +7,6 @@ title: Publications
 
 1. **Adiatma, Y.D.**, Saltzman, M.R., Young, S.A., Griffith, E.M., Kozik, N.P., Edwards, C.T., Leslie, S.A., and Bancroft, A.M., 2019, Did early land plants produce a stepwise change in atmospheric oxygen during the Late Ordovician (Sandbian ~458 Ma)? Palaeogeography, Palaeoclimatology, Palaeoecology, v. 534, p. 109341, [doi:10.1016/j.palaeo.2019.109341](https://doi.org/10.1016/j.palaeo.2019.109341).
 2. ...
-3. ...
 
 ### Conference abstracts
 1. **Adiatma, Y.D.**, and Saltzman, M.R., 2018, Discerning the role of tectonics versus eustasy in stratigraphy records using strontium isotope stratigraphy: case study from The Appalachian Basin, in Proceeding Indonesian Petroleum Association, Jakarta. [link](http://archives.datapages.com/data/ipa_pdf/2018/IPA18-235-G.htm)
