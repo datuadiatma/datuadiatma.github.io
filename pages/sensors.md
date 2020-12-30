@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bedroom Temperature and Humidity
+title: Temperature and Humidity
 permalink: /sensor/
 ---
 
